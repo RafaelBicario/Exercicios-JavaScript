@@ -1,0 +1,54 @@
+1. O que é o ES6?
+R:
+ECMAScript é a linguagem de padrões do Javascript, o ECMAScript 6 é a versão de 2015 que incluia novidades da época.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+2. Exemplifique algumas features introduzidas no ES6.
+R: 
+Destructuring:
+É uma expressão JavaScript que torna possível extrair dados de qualquer objeto que seja iterável e coloca-los em outras variáveis.
+
+default parameters:
+Nos permite inicializar parâmetros com valores padrão, caso nenhum valor tenha sido especificado, ou caso o valor seja undefined.
+
+RegExp flags:
+A RegExp /y, também chamada de sticky, busca apenas a partir do índice indicado pela propriedade lastIndex da expressão regular na string.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+3. Qual a diferença entre var, let e const?
+R:
+Var é uma palavra chave que torna uma variavel indefinida, podendo ser de qualquer valor 
+let é usado para declarar variaveis com escopo de bloco
+e const é utilizado para se declarar variaveis em bloco com valor indefinido.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+4. O que é destructuring e para quais propósitos pode ser utilizado?
+/*R:A atribuição do destructuring permite que você atribua as propriedades de uma matriz ou objeto a variáveis ​​usando uma sintaxe semelhante a literais de matriz ou objeto.
+o proposito de utiliza-lo é sua vantagem em quebrar uma estrutura complexa em partes simples, falicitando até na legibilidade do código.  */
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+5. O que é o DOM?
+R:
+O DOM (Modelo de Objeto de Document), é uma interface de programação de documentos HTML, XMLe SVG, ele forece uma representação estruturada do documento igual a uma árvor. */
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+6. Quais problemas o JavaScript assíncrono soluciona?
+R:
+o java assincrono resolve problemas de requisições, podendo carregar uma requisição enquanto outra esta em execução.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+7. Para que servem os comandos async e await?
+R:
+O Async é um comando que utilizamos para tornar uma função assincrona, sendo assim ela não ira ser realizada de forma sincrona. o await é um comando que aplica uma pausa em tal função.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+8. Quais as vantagens de se usar Promises ao invés de callbacks?
+R:
+O Promisse retorna um dado, e o callback é o dado retornado do promisse.
